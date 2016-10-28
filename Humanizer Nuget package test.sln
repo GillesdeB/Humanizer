@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Humanizer test 1", "Humanizer test 1\Humanizer test 1.csproj", "{F17DD096-21AB-476F-837D-5A5A8474B3D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Humanizer Nuget package test", "Humanizer test 1\Humanizer Nuget package test.csproj", "{F17DD096-21AB-476F-837D-5A5A8474B3D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

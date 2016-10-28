@@ -15,7 +15,7 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
-namespace Humanizer_test_1
+namespace Humanizer_Nuget_package_test
 {
     /// <summary>
     /// Provides application-specific behavior to supplement the default Application class.
